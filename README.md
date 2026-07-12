@@ -2,8 +2,6 @@
 
 I code and stuff.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeDV&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI)
-
 ---
 
 ### 🧰 Things I have used (in no particular order):
